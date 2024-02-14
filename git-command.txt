@@ -1,4 +1,10 @@
+// Глобальный git push
+
 git config --global push.default current
+
+// Глобальные команды аккаунта
+   git config --global user.email "you@example.com"
+   git config --global user.name "Your Name"
 
 Generating a new SSH key
 
